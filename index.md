@@ -10,7 +10,8 @@ Voor een eerste idee wat je zou kunnen maken, kijk eens naar een voorbeeld gemaa
 
 ## Inhoud
 
-1. Begin simpel
+1. Begin simpel!
+2. Uitdaging: Voeg details toe
 
 [Naar de eerste stap >>](stap_1.md)
 

@@ -1,4 +1,4 @@
-# Begin simpel
+# Begin simpel!
 
 Een sneeuwbol bestaat uit een doorzichtige (halve) bol met daarin een tafereel (meestal een landschap) en (witte) deeltjes die de sneeuwvlokken voor moeten stellen. Als je de bol schudt, dan dwarrelen de "sneeuwvlokken" door de bol en dalen langzaam weer neer. Daardoor lijkt het alsof er een sneeuwbui valt.
 
@@ -17,3 +17,7 @@ Je kunt je programma meteen testen, zonder het echt op een micro:bit te zetten. 
 ![schudden maar](images/schudden-maar.png)
 
 Werkt het? Het ziet er nog wel heel simpel uit: eerst alles sneeuw en meteen daarna helemaal geen sneeuw. Dat moet beter kunnen!
+
+[Naar de volgende stap >>](stap_2.md)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
