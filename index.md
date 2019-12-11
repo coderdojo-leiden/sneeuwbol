@@ -12,6 +12,7 @@ Voor een eerste idee wat je zou kunnen maken, kijk eens naar een voorbeeld gemaa
 
 1. Begin simpel!
 2. Uitdaging: Voeg details toe
+3. Een tafereel maken
 
 [Naar de eerste stap >>](stap_1.md)
 
