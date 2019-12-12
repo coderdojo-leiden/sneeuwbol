@@ -2,7 +2,7 @@
 
 Een echte sneeuwbol kan maar één tafereel tonen. Het leuke van software is dat je je programma zo flexibel kunt maken als je zelf wilt! Bijvoorbeeld een sneeuwbol met meerdere taferelen.
 
-Op dit moment heb je 1 tafereel dat verschijnt als je de micro:bit aanzet. Verzin een paar andere plaatjes die een tafereel voorstellen en toon deze plaatjes als op knop A of B op de micro:bit gedrukt wordt. Gebruik hiervoor het `wanneer knop ... wordt indrukt` blok samen met een `toon lichtjes` of een `toon pictogram` blok.
+Op dit moment heb je één tafereel dat verschijnt als je de micro:bit aanzet. Verzin een paar andere plaatjes die een tafereel voorstellen en toon deze plaatjes als op knop A of B op de micro:bit gedrukt wordt. Gebruik hiervoor het `wanneer knop ... wordt indrukt` blok samen met een `toon lichtjes` of een `toon pictogram` blok.
 
 Je kunt zelfs nog een ander plaatje tonen als knoppen A en B tegelijk worden ingedrukt op de micro:bit. Als je dat in de browser test, dan zie je een extra knop A+B verschijnen op de weergave van de micro:bit. Druk op de witte cirkel om knoppen A en B tegelijk in te drukken:
 
