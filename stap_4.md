@@ -10,6 +10,6 @@ Je kunt zelfs nog een ander plaatje tonen als knoppen A en B tegelijk worden ing
 
 Als je op knop A of B (of A+B) drukt en daarna de micro:bit schudt (klik op SHAKE), dan kan het zijn dat je na de sneeuwbui niet met het juiste plaatje eindigt. Als dat zo is, pas dan de code aan die je in de vorige stap geschreven hebt en deel uitmaakt van het `bij schudden` blok.
 
-
+[Naar de volgende stap >>](stap_5.md)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.

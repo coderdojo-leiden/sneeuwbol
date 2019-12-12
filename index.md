@@ -14,6 +14,7 @@ Voor een eerste idee wat je zou kunnen maken, kijk eens naar een voorbeeld gemaa
 2. Uitdaging: Voeg details toe
 3. Een tafereel maken
 4. Uitdaging: Meer taferelen
+5. Testen op de micro:bit
 
 [Naar de eerste stap >>](stap_1.md)
 
