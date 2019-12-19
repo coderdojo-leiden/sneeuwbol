@@ -1,6 +1,6 @@
 # Uitdaging: Voeg details toe
 
-De overgang van alles sneeuw naar geen sneeuw moeten we wat natuurlijker gaan maken. Bedenk zelf hoe jij de overgang kunt verbeteren. Een paar ideetjes om je op weg te helpen:
+De overgang van alles sneeuw naar geen sneeuw moeten we wat natuurlijker gaan maken. Bedenk zelf hoe je de overgang kunt verbeteren. Een paar ideetjes om je op weg te helpen:
 - Voeg meer `toon lichtjes` en `pauze (ms) ...` blokken toe die steeds een paar lichtjes uitdoen.
 - Gebruik een `... keer halen doe` lus of een `voor ... van 0 tot ... doe` lus en `wis x ... y ...` blokken om steeds een paar lichtjes uit te doen.
 - Gebruik `kies willekeurig ... tot ...` blokken en `wis x ... y ...` blokken om steeds een willekeurig lichtje uit te doen.

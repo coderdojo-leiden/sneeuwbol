@@ -4,7 +4,7 @@ Een sneeuwbol bestaat uit een doorzichtige (halve) bol met daarin een tafereel (
 
 De micro:bit heeft een vierkant van 5 bij 5 lichtjes. Die gaan we gebruiken om de inhoud van onze sneeuwbol na te bootsen. Gelukkig kunnen de lichtjes van de micro:bit niet ontsnappen, dus we hebben geen doorzichtige bol nodig!
 
-Laten we simpel beginnen en eerst alleen de sneeuwvlokken maken. Bij het opstarten willen we dat alle lichtjes uit zijn (want we hebben nog geen tafereel). Verwijder daarom het `de hele tijd` blok en voeg aan het `bij opstarten` blok een `toon lichtjes` toe. Er moeten nog geen lichtjes branden, dus het zou er als volgt uit moeten zien:
+Laten we simpel beginnen en eerst alleen de sneeuwvlokken maken. Bij het opstarten willen we dat alle lichtjes uit zijn (want we hebben nog geen tafereel). Verwijder daarom het `de hele tijd` blok en voeg aan het `bij opstarten` blok een `toon lichtjes` blok toe. Er moeten nog geen lichtjes branden, dus het zou er als volgt uit moeten zien:
 
 ![bij opstarten](images/bij-opstarten.png)
 

@@ -1,6 +1,6 @@
 # Een tafereel maken
 
-Nu we de sneeuwvlokken goed werken hebben, wordt het tijd om een tafereel toe te voegen. Een tafereel maken we door een plaatje te tonen op de micro:bit. Dat kan op 2 manieren:
+Nu we de sneeuwvlokken goed werkend hebben, wordt het tijd om een tafereel toe te voegen. Een tafereel maken we door een plaatje te tonen op de micro:bit. Dat kan op 2 manieren:
 
 1. Met het `toon lichtjes` blok. Teken alle lichtjes van je plaatje, bijvoorbeeld een kerstboom:
 
